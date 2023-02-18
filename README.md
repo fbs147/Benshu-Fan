@@ -6,7 +6,7 @@ I am currently working on the interface between **quantum information**, **many-
 Especially, I am currently working on the following topics:
 * **Condensed matter physics**:
   - Topological and symmetry-enriched random quantum critical points. **PRB Letter, Editor's Suggestion** [Paper](https://arxiv.org/pdf/2008.02285.pdf),[Code](https://github.com/hongyehu/SBRG)
-  - Pseudospin-selective Floquet band engineering in black phosphorus. **Nature**:[Paper](https://www.nature.com/articles/s41586-022-05610-3); **News&Views**:
+  - Pseudospin-selective Floquet band engineering in black phosphorus. **Nature**: [Paper](https://www.nature.com/articles/s41586-022-05610-3); **News&Views**:
   - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
   - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
   - Phase-fluctuation Induced Time-Reversal Symmetry Breaking Normal State. [Paper](https://arxiv.org/abs/2102.06158)
