@@ -12,7 +12,7 @@ Especially, I am currently working on the following topics:
 
 
 :book: Education:
-* **2019 September - 2024 June** University of California, San Diego, Department of Physics. Advisor: Prof. Wen-hui Duan & Prof. Pei-zhe Tang.
+* **2019 September - 2024 June** Tsinghua University, Department of Physics. Advisor: Prof. Wen-hui Duan & Prof. Pei-zhe Tang.
 * **2015 September - 2019 June** Dalian University of Technology, Department of Physics. Advisor: Prof. Ji-Jun Zhao & Prof. Jun-Feng Gao.
 
 🖥️: Experience:
