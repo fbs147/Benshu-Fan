@@ -26,8 +26,8 @@ Especially, I am currently working on the following topics:
 
 
 :book: Education:
-* **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
-* **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
+* **2019 September - 2024 June** University of California, San Diego, Department of Physics. Advisor: Prof. Wen-hui Duan & Prof. Pei-zhe Tang.
+* **2015 September - 2019 June** Dalian University of Technology, Department of Physics. Advisor: Prof. Ji-Jun Zhao & Prof. Jun-Feng Gao.
 
 🖥️: Experience:
 * **September 2022 - Present**, Harvard Quantum Initiative Postdoc Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
