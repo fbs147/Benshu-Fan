@@ -4,24 +4,10 @@ I am currently working on the interface between **quantum information**, **many-
 (Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
 
 Especially, I am currently working on the following topics:
-* **Condensed matter physics**:
+* **Light-matter Interaction**:
   - Pseudospin-selective Floquet band engineering in black phosphorus. **Nature**: [Paper](https://www.nature.com/articles/s41586-022-05610-3); **Arxiv**: [Paper](https://arxiv.org/pdf/2302.00604.pdf); **News&Views**: [Paper](https://www.nature.com/articles/d41586-023-00225-8); **Reports**: [Phys.org](https://phys.org/news/2023-02-floquet-band-black-phosphorus.html) & [Tsinghua University](https://www.tsinghua.edu.cn/en/info/1245/11903.htm) & [Department of Physics](https://www.phys.tsinghua.edu.cn/info/1229/5445.htm)
-  - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
-  - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
-  - Phase-fluctuation Induced Time-Reversal Symmetry Breaking Normal State. [Paper](https://arxiv.org/abs/2102.06158)
-* **Quantum information & (Quantum) Machine learning**:
-  - Classical shadow tomography with locally scrambled dynamics. [Paper](https://arxiv.org/pdf/2107.04817.pdf)
-  - Hamiltonian-driven shadow tomography of quantum states. [Paper](https://arxiv.org/pdf/2102.10132.pdf), [Blog](https://github.com/hongyehu/Hamiltonian-driven-shadow-tomography-page)
-  - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
-  - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta) Prof. Frank Wilczek also gave a short presentation. [Video](https://www.youtube.com/watch?v=1lnlt7NlLL4)
-  - Provable quantum advantage in sequence modeling. [Paper]
-  - Differentiable programming of isometric tensor network. [Paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac48a2/meta)
-  - Logical shadow tomography: Efficient estimation of error mitigated values. [Paper](https://scirate.com/arxiv/2203.07263)
-  - Variational quantum circuits.
-* **Machine learning & Physics**:
-  - Neural network renormalization group to Holographic mapping, and lattice field theory simulation. [Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023369)
-  - Apply renormalization group to real data, like human face. [Paper](https://arxiv.org/pdf/2010.00029.pdf),[Code](https://github.com/hongyehu/RG-Flow)
-  - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
+* **Topological Material**:
+  - Chemical Potential Switching of the Anomalous Hall Effect in an Ultrathin Noncollinear Antiferromagnetic Metal. [Paper](https://onlinelibrary.wiley.com/doi/10.1002/adma.202200487)
 
 
 
