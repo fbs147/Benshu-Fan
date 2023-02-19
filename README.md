@@ -1,5 +1,5 @@
 My name is **Ben-Shu Fan(范本澍)**. I am currently pursuing a Ph.D. in the Department of Physics at Tsinghua University.
-I am currently working on the Condensed Matter Physics. <font color=BlueViolet>Test</font>
+I am currently working on the Condensed Matter Physics.
 
 Especially, I am currently working on the following topics:
 * **Light-matter Interaction**:
@@ -18,11 +18,7 @@ Especially, I am currently working on the following topics:
 * **2015 September - 2019 June** Dalian University of Technology, Department of Physics. Advisor: Prof. Ji-Jun Zhao & Prof. Jun-Feng Gao.
 
 🖥️: Experience:
-* **September 2022 - Present**, Harvard Quantum Initiative Postdoc Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
-* **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
-* **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
-* **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
-
+* **Sept 2017-March 2018**, Dalian Institute of Chemical Physics, Chinese Academy of Sciences. Worked on the construction of coherent light source in Dalian, Changxing Island, Dalian.
   
 :clipboard: You can find more info at [my Harvard webpage](https://scholar.harvard.edu/hongyehu)
 
