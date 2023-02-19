@@ -1,5 +1,5 @@
 My name is **Ben-Shu Fan(范本澍)**. I am currently pursuing a Ph.D. in the Department of Physics at Tsinghua University.
-I am currently working on the Condensed Matter Physics. <span style=background:red>Test</span>
+I am currently working on the Condensed Matter Physics. <font color=BlueViolet>Test</font>
 
 Especially, I am currently working on the following topics:
 * **Light-matter Interaction**:
