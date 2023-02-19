@@ -1,5 +1,5 @@
 My name is **Ben-Shu Fan(范本澍)**. I a HQI Postdoctoral Fellow at Tsinghua University.
-I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
+I am currently working on the Condensed Matter Physics. #interface between **quantum information**, **many-body physics** and **machine learning**. 
 
 (Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
 
