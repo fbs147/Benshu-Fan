@@ -1,8 +1,6 @@
 My name is **Ben-Shu Fan(范本澍)**. I a HQI Postdoctoral Fellow at Tsinghua University.
 I am currently working on the Condensed Matter Physics.
 
-(Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
-
 Especially, I am currently working on the following topics:
 * **Light-matter Interaction**:
   - Pseudospin-selective Floquet band engineering in black phosphorus. **Nature 614, 75–80 (2023)**: [Paper](https://www.nature.com/articles/s41586-022-05610-3); **Arxiv**: [Paper](https://arxiv.org/pdf/2302.00604.pdf); **News&Views**: [Paper](https://www.nature.com/articles/d41586-023-00225-8); **Reports**: [Phys.org](https://phys.org/news/2023-02-floquet-band-black-phosphorus.html) & [Tsinghua University](https://www.tsinghua.edu.cn/en/info/1245/11903.htm) & [Department of Physics](https://www.phys.tsinghua.edu.cn/info/1229/5445.htm)
