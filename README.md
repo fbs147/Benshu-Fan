@@ -17,7 +17,7 @@ Especially, I am currently working on the following topics:
 * **2015 September - 2019 June** Dalian University of Technology, Department of Physics. Advisor: Prof. Ji-Jun Zhao & Prof. Jun-Feng Gao.
 
 🖥️: Experience:
-* **Sept 2017-March 2018**, Dalian Institute of Chemical Physics, Chinese Academy of Sciences. Worked on the construction of coherent light source in Dalian, Changxing Island, Dalian.
+* **Sept 2017-March 2018**, Dalian Institute of Chemical Physics, Chinese Academy of Sciences. Worked on the construction of coherent light source, Changxing Island, Dalian.
   
 
 <!--
