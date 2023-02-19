@@ -1,5 +1,5 @@
 My name is **Ben-Shu Fan(范本澍)**. I a HQI Postdoctoral Fellow at Tsinghua University.
-I am currently working on the Condensed Matter Physics.  <font color=#0000FF >蓝色</font>
+I am currently working on the Condensed Matter Physics.  <font color=Blue >蓝色</font>
 
 Especially, I am currently working on the following topics:
 * **Light-matter Interaction**:
